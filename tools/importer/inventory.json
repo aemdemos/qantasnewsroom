@@ -1,0 +1,530 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-11-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-10-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-03-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-03-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-03-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "unknown",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-10-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-03-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-03-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-03-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-05-8432047a6065c3f16241857848a3c7b0988274fc",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-04-9925602b3af96f21ac37be40ead917f5b7149197",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]"
+        },
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-05-784ca60445c1bd6338a9d1c80bae1958f1864d2a",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-11-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-02-517a94db4be9e28b45ddc57a88330ab3a851dd0d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery/",
+          "urlHash": "be55da6290efe33d23ea35eed79b3f0fbb5a961f",
+          "uuid": "be55da62-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/topics/",
+          "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+          "uuid": "ccf3460a-04-9b9fe81c3b3df88cfaa3d242c5986e5ff6e6b2e4",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+          "urlHash": "414b684339d0a040de81ce67d23f830afd06a45d",
+          "uuid": "414b6843-02-517a94db4be9e28b45ddc57a88330ab3a851dd0d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-03-9e8a4be201a04664e6dfb29e21ae582d83b5ece6",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-06-ce072402dcb57ab747a3890f08d718e449db63c3",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-08-e2bd6861ab74d284e116ce33287261b1f9e98b3f",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/",
+          "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+          "uuid": "1f0375db-09-673b1192bf50f97452eeb1ca80827e636823b70d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+          "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+          "uuid": "5e78a2d8-01-467ff85a41fa75a20150d1119670a5e9b2459ffe",
+          "xpath": "/html[1]/body[1]/div[3]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 20,
+      "instances": [
+        {
+          "url": "https://www.qantasnewsroom.com.au/gallery-category/engineering-and-technology/",
+          "urlHash": "67d5c1844959379df18c795755ae24d84f60855d",
+          "uuid": "67d5c184-02-517a94db4be9e28b45ddc57a88330ab3a851dd0d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.qantasnewsroom.com.au/",
+      "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+      "uuid": "1f0375db-02-a010d6c422a88c77307288da1430ab52bfc9e330",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.qantasnewsroom.com.au/",
+      "urlHash": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d0",
+      "uuid": "1f0375db-07-706c808da784b52f20f05282d91d35e404144e78",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+      "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+      "uuid": "5e78a2d8-02-19dd1aadf5d627281137c3fbd7bbe0207eb885aa",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+      "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+      "uuid": "5e78a2d8-03-673b1192bf50f97452eeb1ca80827e636823b70d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+      "urlHash": "5e78a2d8f7a1305fef93fa1d066a925084580f95",
+      "uuid": "5e78a2d8-04-9b9fe81c3b3df88cfaa3d242c5986e5ff6e6b2e4",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.qantasnewsroom.com.au/topics/",
+      "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+      "uuid": "ccf3460a-02-19dd1aadf5d627281137c3fbd7bbe0207eb885aa",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.qantasnewsroom.com.au/topics/",
+      "urlHash": "ccf3460a3381cca2e58b7eeb90b741079e06b09a",
+      "uuid": "ccf3460a-03-673b1192bf50f97452eeb1ca80827e636823b70d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]"
+    }
+  ]
+}
